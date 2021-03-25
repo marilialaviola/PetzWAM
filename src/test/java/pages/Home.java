@@ -16,7 +16,6 @@ public class Home extends Base {
     private WebElement btnSearch;
 
     // 2 - Construtor
-
     public Home(WebDriver driver) {
         super(driver);
     }
